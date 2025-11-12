@@ -1,8 +1,3 @@
-#!/usr/bin/env python3
-"""
-Simple Python CLI calculator
-Usage: run `python calculator.py` and follow on-screen prompts.
-"""
 
 import math
 
@@ -52,3 +47,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
